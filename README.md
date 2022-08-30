@@ -89,5 +89,3 @@ Then create pytest run configurations, by going to `Edit Configurations -> + -> 
 the same arguments as above:
 
 ![Setting up run configuration](docs/run_configuration.png)
-
-
